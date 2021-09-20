@@ -9,7 +9,7 @@ function handleSubmit(event) {
 
     event.preventDefault();
 
-    var advanced = Math.floor(parseFloat(text1.value)* 0.95 - parseInt(text2.value) * 5);
+    var advanced = Math.floor(parseFloat(text1.value)* 0.95 - parseInt(text2.value) * 5)/5;
     var rare = Math.floor(parseFloat(text1.value) * 0.95 - parseInt(text3.value));
     var temp = '고급 1셋 구매 시 마진 : ' + advanced;
     test1.innerHTML = temp;
