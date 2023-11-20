@@ -4,4 +4,5 @@
 
 
 ## 스크린샷
-![unknown](https://github.com/akdlcnd0994/lostArkTree/assets/28687142/ae5bcc37-00c8-4bca-b5a0-eeabb3408129)
+![image](https://github.com/akdlcnd0994/lostArkTree/assets/28687142/c7abd400-1d5b-4c52-b227-d2f47ba8a486)
+
